@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Attendance Report</string>
+    <string name="txt_report_introduce">Attending and Leaving Report</string>
+    <string name="txt_send_attendance">Attending Report</string>
+    <string name="txt_send_leave">Leaving Report</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
